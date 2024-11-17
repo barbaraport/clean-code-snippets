@@ -28,3 +28,7 @@ const testingTheWorstCaseFirstExample2 = () => {
 
     console.log("the rest of my code");
 }
+
+youCouldTestTheWorstCaseFirst();
+testingTheWorstCaseFirstExample1();
+testingTheWorstCaseFirstExample2();
